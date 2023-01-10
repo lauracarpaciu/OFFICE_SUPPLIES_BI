@@ -15,7 +15,7 @@ Go crazy with the dataset, but also make sure to provide some business insights 
 •	Build data models
 •	Aggregate table
 
-
+I started from train.csv dataset 
 With Power Query Editor I created the tables:
 
 - FactSales;(applied steps:promoted headers;change data type;remove other columns,remove duplicates,change data type,add custom column, change data type)
