@@ -1,4 +1,4 @@
-# Superstore Giant
+# Superstore
 
 
 Context 
